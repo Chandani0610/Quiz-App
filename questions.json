@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is React?",
+    "options": ["Library", "Framework", "Language", "Database"],
+    "answer": "Library"
+  },
+  {
+    "question": "Which hook is used for state management?",
+    "options": ["useRef", "useEffect", "useState", "useMemo"],
+    "answer": "useState"
+  },
+  {
+    "question": "Which company developed React?",
+    "options": ["Google", "Facebook", "Amazon", "Microsoft"],
+    "answer": "Facebook"
+  },
+  {
+    "question": "Which keyword is used to create component in React?",
+    "options": ["function", "class", "component", "define"],
+    "answer": "function"
+  },
+  {
+    "question": "Which hook is used for side effects?",
+    "options": ["useState", "useRef", "useEffect", "useReducer"],
+    "answer": "useEffect"
+  }
+]
